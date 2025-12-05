@@ -2,6 +2,10 @@
 
 A simple, modern, and customizable web-based chatbot powered by the Google Gemini API. This project includes a Node.js + Express backend and a clean, responsive Vanilla JavaScript frontend.
 
+## Visual
+<img width="1440" height="754" alt="image" src="https://github.com/user-attachments/assets/10c62546-f319-49f1-b413-75dc25a335b8" />
+
+
 ## ✨ Features
 
 -   **Direct Gemini Integration**: Connects directly to the Gemini API for powerful conversational AI.
